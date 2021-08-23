@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌝 I'm armien
+- 🌝 I'm armin
 
 <!--
 **suarminrais/suarminrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
